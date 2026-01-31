@@ -1,0 +1,5 @@
+-- ============================================
+-- SymmetricDS Configuration - Europa (Cliente)
+-- Este archivo puede permanecer vacío.
+-- La configuración se hereda del nodo América.
+-- ============================================
